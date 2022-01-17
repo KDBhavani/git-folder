@@ -1,0 +1,26 @@
+To Clone github in local
+
+git clone <git https>
+Ex: git clone https://asdf//asdf/
+
+Check all the files and folder
+-ls
+check the directors
+-dir
+
+To check the log
+
+git log
+
+Git
+To check the commits--Git status
+If you created any file and not commited then 
+Git add filename:
+Then commit the file with message
+Git commit -m "message";
+Git show -- it shows each commit id wise details
+Git log- it show what content you have added in file with each commit wise
+Git reset --hard gidid
+It will take commits only till that commit
+git push -u origin master or git push -f origin main
+git pull main origin 
